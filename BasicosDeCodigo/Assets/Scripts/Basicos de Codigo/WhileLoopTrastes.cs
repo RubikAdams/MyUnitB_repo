@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 //mientras Condicional while con menor que
-public class WhileLoopCode : MonoBehaviour {
+public class WhileLoopTrastes : MonoBehaviour {
 	int trastesSucios=20;
 	// Use this for initialization
 	void Start () {
